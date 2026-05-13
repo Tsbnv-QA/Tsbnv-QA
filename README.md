@@ -82,14 +82,15 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/diploma-with-number_ru.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/refs/heads/main/diploma-with-number_ru.png)
+[<img src="/Diplom.ru.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Tsbnv-QA/Tsbnv-QA/refs/heads/main/Diplom.ru.png)
+[<img src="/Diplom.eng.png" width="280px" hspace="10px" alt="Sertificate»">](https://raw.githubusercontent.com/Tsbnv-QA/Tsbnv-QA/refs/heads/main/Diplom.eng.png)
 [<img src="/Letter12.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/Letter12.png)
 
 <br>
 <br>
 
 ## 🤝 Контакт
-[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:german@dolnikov.ru)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/dolnikov)
+[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:aalisva1@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/coffelemons)
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
