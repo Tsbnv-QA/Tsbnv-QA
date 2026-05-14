@@ -3,13 +3,13 @@
 
 ## 📊 Статистика
 
-![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=Tsbnv-QA)
-![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=Tsbnv-QA)
+![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=Angelika-QA)
+![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=Angelika-QA)
 
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
 
-![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&username=Tsbnv-QA)
+![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&username=Angelika-QA)
 
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
 
@@ -83,8 +83,8 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/Diplom.ru.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Tsbnv-QA/Tsbnv-QA/refs/heads/main/Diplom.ru.png)
-[<img src="/Diplom.eng.png" width="280px" hspace="10px" alt="Sertificate»">](https://raw.githubusercontent.com/Tsbnv-QA/Tsbnv-QA/refs/heads/main/Diplom.eng.png)
+[<img src="/Diplom.ru.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/Angelika-QA/Angelika-QA/refs/heads/main/Diplom.ru.png)
+[<img src="/Diplom.eng.png" width="280px" hspace="10px" alt="Sertificate»">](https://raw.githubusercontent.com/Angelika-QA/Angelika-QA/refs/heads/main/Diplom.eng.png)
 [<img src="/Letter12.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/Letter12.png)
 
 <br>
